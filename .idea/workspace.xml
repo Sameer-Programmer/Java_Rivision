@@ -4,68 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b7c29da-6aeb-4f4a-a2cd-74bc23a4431a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_Basic_ConditionalStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_ConStmt_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_CondStmt_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_ConditionalStatement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test11_Example_Swicth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test1_BasicProgramm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test2_DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test3_SingleAndMultilineComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test4_Operators_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test5_Increment_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test6_DecrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test7_TerinaryOperater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test7_TerinaryOperatr_Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test8_swap_2_Numbers_with_Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test9_temp_Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_2_Practice_Imp/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_2_Practice_Imp/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test1_FL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test1_FL_Ex_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test1_FL_Ex_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test2_WL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test3_WL_Ex_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test4_DWL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test5_LBRK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test8_ALL_in_one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test9.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b7c29da-6aeb-4f4a-a2cd-74bc23a4431a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
