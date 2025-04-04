@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b7c29da-6aeb-4f4a-a2cd-74bc23a4431a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_Basic_ConditionalStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_ConStmt_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_CondStmt_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test10_ConditionalStatement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test11_Example_Swicth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test1_BasicProgramm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test2_DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test3_SingleAndMultilineComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test4_Operators_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test5_Increment_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test6_DecrementOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test7_TerinaryOperater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test7_TerinaryOperatr_Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test8_swap_2_Numbers_with_Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test9_temp_Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_2_Practice_Imp/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_2_Practice_Imp/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test1_FL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test1_FL_Ex_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test1_FL_Ex_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test2_WL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test3_WL_Ex_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test4_DWL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test5_LBRK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_3_Loops/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test8_ALL_in_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2vA4JySOHHlI83kUY2uyayPnBrG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test1.executor": "Run",
+    "Application.Test10.executor": "Run",
+    "Application.Test10_ConStmt_3.executor": "Run",
+    "Application.Test10_ConditionalStatement1.executor": "Run",
+    "Application.Test10_TerinaryOperatr_Example2.executor": "Run",
+    "Application.Test11.executor": "Run",
+    "Application.Test12.executor": "Run",
+    "Application.Test13.executor": "Run",
+    "Application.Test14.executor": "Run",
+    "Application.Test15.executor": "Run",
+    "Application.Test1_FL.executor": "Run",
+    "Application.Test1_FLEX.executor": "Run",
+    "Application.Test1_FL_Ex_2.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test2_WL.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test3_Operators_Example.executor": "Run",
+    "Application.Test4.executor": "Run",
+    "Application.Test4_DWL.executor": "Run",
+    "Application.Test4_Operators_Example.executor": "Run",
+    "Application.Test5.executor": "Run",
+    "Application.Test5_LBRK.executor": "Run",
+    "Application.Test6.executor": "Run",
+    "Application.Test6_DecrementOperator.executor": "Run",
+    "Application.Test7.executor": "Run",
+    "Application.Test7_TerinaryOperater.executor": "Run",
+    "Application.Test8.executor": "Run",
+    "Application.Test8_ALL_in_one.executor": "Run",
+    "Application.Test8_swap_2_Numbers.executor": "Run",
+    "Application.Test9.executor": "Run",
+    "Application.Test9_temp_Swap.executor": "Run",
+    "Application.test2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/shaik/Katalon Studio/Project_JAVA/src/main/java/org/nalashaa/Main.java",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b7c29da-6aeb-4f4a-a2cd-74bc23a4431a" name="Changes" comment="" />
+      <created>1743574479892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743574479892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/nalashaa/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
