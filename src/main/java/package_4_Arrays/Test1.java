@@ -12,7 +12,7 @@ public class Test1 {
         for(int i =0 ; i<Arraylength; i++){
             System.out.println(a[i]);
         }
-        System.out.println("BELOW                   ");
+        System.out.println("BELOW ");
 
         for(int container : a){
             System.out.println(container);

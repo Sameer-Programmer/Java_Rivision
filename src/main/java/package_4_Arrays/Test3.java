@@ -2,7 +2,7 @@ package package_4_Arrays;
 
 public class Test3 {
     public static void main(String[] args) {
-        int a[][] = new int[4][5];
+        //int a[][] = new int[4][5];
         int b[][] = {
                 {10,20},//0
                 {30,40},//1

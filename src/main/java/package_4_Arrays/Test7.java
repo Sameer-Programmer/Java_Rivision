@@ -13,6 +13,7 @@ public class Test7 {
 in this what is Arrays
 in which data type we can store  Arrays.sort(a);
 in console after Arrays.toString(a) in which form the data is printed
+//returns a String that prints array elements
  */
     }
 }

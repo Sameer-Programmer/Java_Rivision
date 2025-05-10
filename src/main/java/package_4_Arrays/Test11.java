@@ -10,10 +10,6 @@ public class Test11 {
             System.out.println(a[i]);
         }
 
-
-//       String s =  Arrays.toString(a);
-//        System.out.println(s);
-    //    Arrays.sort(a);
         System.out.println(Arrays.toString(a));
 
 
