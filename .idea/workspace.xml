@@ -5,139 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7c29da-6aeb-4f4a-a2cd-74bc23a4431a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Daily_Practice_Package/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Daily_Practice_Package/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Daily_Practice_Package/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Daily_Practice_Package/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Daily_Practice_Package/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Daily_Practice_Package/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/PassByReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day1/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day4/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day6/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day7/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day8_Pass_Value_Reference/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day8_Pass_Value_Reference/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day9/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_5/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_5/Test19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day_5/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Basics/Basics.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Basics/Conversion_and_Casting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Basics/How_To_Executer_CMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Calcy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Caliculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaveenReddy/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package1/Package2/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_1/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Assigments/Test19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Examples/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Examples/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Examples/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Examples/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Examples/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Examples_String/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Examples_String/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Problems_List/Points3/md.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Problems_List/Problems.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Problems_List/points.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test21_SBf_SBL_St.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Package_Strings/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract_Package/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actors/Mohan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Annonimus/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day10/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day11/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day12/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day12/TestSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InnerClassPackage/Annonymus_Innerclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InnerClassPackage/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InnerClassPackage/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Movie/Telugu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PolyMorphism/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SuperPackage/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SuperPackage/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wrapper_class_Learn/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/package_4_Arrays/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8_Pass_Value_Reference/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pass_Value_Reference/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8_Pass_Value_Reference/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pass_Value_Reference/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5/Test19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day_5/Test2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,10 +55,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstract_Package.Test1.executor": "Run",
     "Application.Animal.executor": "Run",
+    "Application.Annonymus_Innerclass.executor": "Run",
     "Application.B.executor": "Run",
     "Application.Day1.Test1.executor": "Run",
     "Application.Day1.Test2.executor": "Run",
+    "Application.Day10.Test2.executor": "Run",
     "Application.Day2.Test1.executor": "Run",
     "Application.Day2.Test14.executor": "Run",
     "Application.Day2.Test15.executor": "Run",
@@ -182,10 +73,15 @@
     "Application.Demo4.executor": "Run",
     "Application.Doctor.executor": "Run",
     "Application.Furniture.executor": "Run",
+    "Application.InnerClassPackage.Test1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Mohan.executor": "Run",
     "Application.Money.executor": "Run",
+    "Application.Movie.executor": "Run",
     "Application.NaveenReddy.Test1.executor": "Run",
     "Application.Package_Assigments.Test17.executor": "Run",
+    "Application.PolyMorphism.Test1.executor": "Run",
     "Application.Test1.executor": "Run",
     "Application.Test10.executor": "Run",
     "Application.Test10_ConStmt_3.executor": "Run",
@@ -224,6 +120,8 @@
     "Application.Test8_swap_2_Numbers.executor": "Run",
     "Application.Test9.executor": "Run",
     "Application.Test9_temp_Swap.executor": "Run",
+    "Application.TestSuper.executor": "Run",
+    "Application.Wrapper_class_Learn.Test1.executor": "Run",
     "Application.package_4_Arrays.Test1.executor": "Run",
     "Application.package_4_Arrays.Test2.executor": "Run",
     "Application.test2.executor": "Run",
@@ -239,13 +137,13 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B">
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day9.B" />
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Annonymus_Innerclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerClassPackage.Annonymus_Innerclass" />
       <module name="Project_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day9.*" />
+          <option name="PATTERN" value="InnerClassPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day4.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.Test1" />
+    <configuration name="InnerClassPackage.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerClassPackage.Test1" />
       <module name="Project_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4.*" />
+          <option name="PATTERN" value="InnerClassPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.Demo4" />
+    <configuration name="PolyMorphism.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolyMorphism.Test1" />
       <module name="Project_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="PolyMorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.Main" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Annonimus.Test1" />
       <module name="Project_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Annonimus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,11 +191,11 @@
       </method>
     </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_5.Test2" />
+      <option name="MAIN_CLASS_NAME" value="InnerClassPackage.Test2" />
       <module name="Project_JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_5.*" />
+          <option name="PATTERN" value="InnerClassPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B" />
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Day4.Test1" />
+        <item itemvalue="Application.Annonymus_Innerclass" />
+        <item itemvalue="Application.PolyMorphism.Test1" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.InnerClassPackage.Test1" />
       </list>
     </recent_temporary>
   </component>

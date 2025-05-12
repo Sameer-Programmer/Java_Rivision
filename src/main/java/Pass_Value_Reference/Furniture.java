@@ -1,4 +1,4 @@
-package Day8_Pass_Value_Reference;
+package Pass_Value_Reference;
 // pass by Value
 public class Furniture {
 
